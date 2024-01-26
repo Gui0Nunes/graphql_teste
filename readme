@@ -1,0 +1,6 @@
+#GrpahQL - API de testes de consumo de querys
+ - Após baixar o repositório, para baixar as dependências do projeto, efetuar o comando abaixo:
+ $ npm i
+
+ - Subir projeto
+ $ npm start
