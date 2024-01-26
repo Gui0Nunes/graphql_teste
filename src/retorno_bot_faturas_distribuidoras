@@ -1,0 +1,38 @@
+'[
+            {
+                "id": 1,
+                "nome": "CERIPA",
+                "url_a": "https://ceripa.useallcloud.com.br/AgenciaVirtual/",
+                "url_b": "https://ceripa.useallcloud.com.br/AgenciaVirtual/",
+                "qtd": '85',
+                "status": 't',
+                "updted-at": '2024-01-12 15:02:44'
+            },
+            {
+                "id": 2,
+                "nome": "EQUATORIAL",
+                "url_a": "https://equatorialgoias.com.br/LoginGO.aspx",
+                "url_b": "https://equatorialgoias.com.br/LoginGO.aspx",
+                "qtd": '249',
+                "status": 't',
+                "updted-at": '2024-01-12 15:02:44'
+            },
+            {
+                "id": 3,
+                "nome": "COPEL",
+                "url_a": "https://www.copel.com/avaweb/paginaLogin/loginUc.jsf",
+                "url_b": "https://www.copel.com/avaweb/paginaLogin/loginUc.jsf",
+                "qtd": '29',
+                "status": 't',
+                "updted-at": '2024-01-12 15:02:44'
+            },
+            {
+               "id": 4,
+                "nome": "CPFL",
+                "url_a": "https://cpflb2cprd.b2clogin.com/cpflb2cprd.onmicrosoft.com/b2c_1a_signup_signin_mfa_front/oauth2/v2.0/authorize?p=B2C_1A_SIGNUP_SIGNIN_MFA_FRONT&client_id=17d5831d-6741-4670-8085-d1d34e37aec1&nonce=defaultNonce&redirect_uri=https%3A%2F%2Fwww.cpfl.com.br%2Fb2c-auth%2Freceive-token&scope=17d5831d-6741-4670-8085-d1d34e37aec1%20offline_access&response_type=code&prompt=login&response_mode=query",
+                "url_b": "https://servicosonline.cpfl.com.br/agencia-webapp/#/login",
+                "qtd": '104',
+                "status": 't',
+                "updted-at": '2024-01-12 15:02:44'
+            }
+        ]'
